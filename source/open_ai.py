@@ -55,6 +55,3 @@ class OpenAI:
                                                     json=json_data)
 
         return response
-
-
-OpenAI.chatgpt_request()
